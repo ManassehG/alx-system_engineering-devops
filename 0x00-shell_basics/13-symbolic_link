@@ -1,0 +1,2 @@
+#!/bin/alx
+ln -s /bin/ls __ls__
